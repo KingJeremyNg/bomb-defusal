@@ -1,0 +1,22 @@
+{
+  "name": "bomb-defusal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingJeremyNg/bomb-defusal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KingJeremyNg/bomb-defusal/issues"
+  },
+  "homepage": "https://github.com/KingJeremyNg/bomb-defusal#readme",
+  "dependencies": {
+    "bulma": "^0.9.1"
+  }
+}
